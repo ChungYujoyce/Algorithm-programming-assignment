@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573571412 source:c:\users\user\desktop\algo\program #3\106062109_hw3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
